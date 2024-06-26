@@ -894,6 +894,9 @@ ul.main-nav {
 .work-steps .info {
   flex: 1;
 }
+.work-steps .box img {
+    width: 74px;
+}
 .work-steps .image {
   max-width: 100%;
   margin-right: 100px;
